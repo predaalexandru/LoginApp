@@ -1,8 +1,10 @@
 # LoginApp
 
 # Author
-Name: Preda Alexandru 
-Email: alexpreda95@yahoo.com 
+Name: Preda Alexandru
+
+Email: alexpreda95@yahoo.com
+
 Copyright (c) 2018 Preda Alexandru
 
 # Description
